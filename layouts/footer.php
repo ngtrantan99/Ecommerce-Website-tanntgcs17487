@@ -8,6 +8,9 @@
 				
 					<h7><a target="_blank" href="https://www.google.com/maps/place/12+%C4%90%C6%B0%E1%BB%9Dng+T%C3%B4n+%C4%90%E1%BA%A3n,+Ph%C6%B0%E1%BB%9Dng+13,+Qu%E1%BA%ADn+4,+Th%C3%A0nh+ph%E1%BB%91+H%E1%BB%93+Ch%C3%AD+Minh+700000,+Vietnam/@10.7623818,106.7054158,17z/data=!3m1!4b1!4m5!3m4!1s0x31752f69244be589:0x8f7a7a4425da14fa!8m2!3d10.7623765!4d106.7076045" > Address: 12 Ton Dan, Ward 13, Distric 3, <br>
 						 Ho Chi Minh city, Vietnam</a></h7>
+					<h6>Phone: 0859226816</h6>
+					<h6>Openning time:</h6>
+					<h6>From 9 A.M to 17 P.M including weekend </h6>
 					
 				
 			</div>
