@@ -30,7 +30,7 @@
 		</div>
 	</div>
 	<div style="background-color:#f2f2f2 ; width: 100%; text-align: center; padding: 20px;">
-		© 2021 by NGUYEN TRAN TAN - GCS17487.
+		© 2022 by NGUYEN TRAN TAN - GCS17487.
 	</div>
 </footer>
 
